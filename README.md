@@ -80,6 +80,8 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 ### 手动安装
 
 [手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
+在此处，根据自身系统选择合适的版本：Release
+解压压缩包，之后运行：./XrayR --config config.yml
 
 ## 配置文件及详细使用教程
 
